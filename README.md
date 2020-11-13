@@ -1,3 +1,2 @@
-# findCropppedImage
-Find the location of cropped image
-
+Method I : Apply 2D conv
+Method II : Extract and match features using SIFT
